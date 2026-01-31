@@ -112,8 +112,8 @@ dscEngine.liquidate(weth, userToLiquidate, debtToCover);
 
 | Contract | Address |
 |----------|---------|
-| DecentralizedStableCoin | [`0x759F0c0694950324A1B305F1D719d56B24747a0D`](https://sepolia.etherscan.io/address/0x759F0c0694950324A1B305F1D719d56B24747a0D) |
-| DSCEngine | [`0x4986aA7086AA207f1008ACCf919F6c54f673f83E`](https://sepolia.etherscan.io/address/0x4986aA7086AA207f1008ACCf919F6c54f673f83E) |
+| DecentralizedStableCoin | <a href="https://sepolia.etherscan.io/address/0x759F0c0694950324A1B305F1D719d56B24747a0D" target="_blank"><code>0x759F0c0694950324A1B305F1D719d56B24747a0D</code></a> |
+| DSCEngine | <a href="https://sepolia.etherscan.io/address/0x4986aA7086AA207f1008ACCf919F6c54f673f83E" target="_blank"><code>0x4986aA7086AA207f1008ACCf919F6c54f673f83E</code></a> |
 
 ### Mainnet
 
